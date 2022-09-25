@@ -1,0 +1,83 @@
+{
+    "Category": {
+        "Name": "Description"
+    },
+    "Actor": {
+        "Cult": "",
+        "Faction": "",
+        "God": "",
+        "Guild": "",
+        "NPC": "",
+        "Patron": "",
+        "PC": ""
+    },
+    "Character": {
+        "Class": "",
+        "Race": "",
+        "Sub-class": "",
+        "Sub-race": ""
+    },
+    "Content": {
+        "Adventure": "",
+        "Anthology": "",
+        "ArtWork": "",
+        "Campaign": "",
+        "Encounter": "",
+        "Hook": "",
+        "Setting": ""
+    },
+    "Game element": {
+        "Card": "",
+        "Item": "",
+        "Monster": "",
+        "Quick Ref": "",
+        "Rule": "",
+        "Spell": "",
+        "Table": ""
+    },
+    "Mythos": {
+        "History": "",
+        "Lore": ""
+    },
+    "Place": {
+        "Faerun": "",
+        "Sword Coast": "",
+        "Waterdeep": ""
+    },
+    "Publisher": {
+        "&Guild": "DMs Guild",
+        "Chamo": "Chamomile has a Project",
+        "CR": "Critical Role",
+        "Crit": "Crit Academy",
+        "CT": "Crimson Terain",
+        "CzP": "CzePeku",
+        "DMDave": "DM Dave",
+        "Frog": "Frog God Games",
+        "Griffon": "Griffon's Saddlebags",
+        "Grim": "Grim Press",
+        "Kobold": "Kobold Press",
+        "Legend": "Legendary Games/Legendary Loot",
+        "LootT": "Loot Tavern",
+        "Mage": "Mage Hand Press",
+        "NDH": "ND Hobbies",
+        "Necro": "Necromancer Games",
+        "Skirmish": "Skirmisher Game Group",
+        "SlyF": "Sly Flourish",
+        "TomC": "Tom Cartos",
+        "UA": "Unearthed Arcana (WotC unofficial/test content)",
+        "WarChief": "War Chief Gaming",
+        "WotC": "Wizards of the Coast (Official Content)"
+    },
+    "Publisher Type": {
+        "3rd party": "",
+        "Fan": "",
+        "Official": "",
+        "Unofficial": ""
+    },
+    "Ruleset": {
+        "D&D-5e": "",
+        "DCC": "",
+        "PathFinder": "",
+        "PathFinder-2": ""
+    }
+}

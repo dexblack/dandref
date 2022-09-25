@@ -1,0 +1,61 @@
+Category	Name	Description
+Actor	Cult	
+Actor	Faction	
+Actor	God	
+Actor	Guild	
+Actor	NPC	
+Actor	Patron	
+Actor	PC	
+Character	Class	
+Character	Race	
+Character	Sub-class	
+Character	Sub-race	
+Content	Adventure	
+Content	Anthology	
+Content	ArtWork	
+Content	Campaign	
+Content	Encounter	
+Content	Hook	
+Content	Setting	
+Game element	Card	
+Game element	Item	
+Game element	Monster	
+Game element	Quick Ref	
+Game element	Rule	
+Game element	Spell	
+Game element	Table	
+Mythos	History	
+Mythos	Lore	
+Place	Faerun	
+Place	Sword Coast	
+Place	Waterdeep	
+Publisher	&Guild	DMs Guild
+Publisher	Chamo	Chamomile has a Project
+Publisher	CR	Critical Role
+Publisher	Crit	Crit Academy
+Publisher	CT	Crimson Terain
+Publisher	CzP	CzePeku
+Publisher	DMDave	DM Dave
+Publisher	Frog	Frog God Games
+Publisher	Griffon	Griffon's Saddlebags
+Publisher	Grim	Grim Press
+Publisher	Kobold	Kobold Press
+Publisher	Legend	Legendary Games/Legendary Loot
+Publisher	LootT	Loot Tavern
+Publisher	Mage	Mage Hand Press
+Publisher	NDH	ND Hobbies
+Publisher	Necro	Necromancer Games
+Publisher	Skirmish	Skirmisher Game Group
+Publisher	SlyF	Sly Flourish
+Publisher	TomC	Tom Cartos
+Publisher	UA	Unearthed Arcana (WotC unofficial/test content)
+Publisher	WarChief	War Chief Gaming
+Publisher	WotC	Wizards of the Coast (Official Content)
+Publisher Type	3rd party	
+Publisher Type	Fan	
+Publisher Type	Official	
+Publisher Type	Unofficial	
+Ruleset	D&D-5e	
+Ruleset	DCC	
+Ruleset	PathFinder	
+Ruleset	PathFinder-2	
