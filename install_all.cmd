@@ -1,0 +1,7 @@
+cmd /c "npm install jquery --save"
+cmd /c "npm install datatables.net --save"
+cmd /c "npm install datatables.net-dt --save"
+cmd /c "npm install angular-datatables --save"
+cmd /c "npm install @types/jquery --save-dev"
+cmd /c "npm install @types/datatables.net --save-dev"
+cmd /c "npm install bootstrap --save"
