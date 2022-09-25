@@ -9,7 +9,7 @@ import { HttpClient } from '@angular/common/http';
 export class AppComponent {
   title = 'dandref';
   dtOptions: DataTables.Settings = {};
-  posts:any[];
+  posts!: any[];
   
   constructor(private http: HttpClient) { }
    
@@ -21,8 +21,8 @@ export class AppComponent {
     };
    
     this.http.get('http://jsonplaceholder.typicode.com/posts')
-      .subscribe(posts:any[] => {
-        this.posts = posts;
+      .subscribe(posts => {
+        this.posts = posts as any[];
     });
    
   }  
